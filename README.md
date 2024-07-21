@@ -65,3 +65,9 @@ I agree that the probabilities here are true positives, for the respective agent
 Pontus:
 
 Agree. 👍
+
+------------
+
+Pontus:
+
+Seems super simple to do self-supervised training with a GNN to predict the next log event. Given the example of LLMs, that ought to imbue the GNN with a deep understanding of the cloud environment. We should be able to produce a "legitimate user graph", a LUG, (as opposed to an attack graph), that specifies the likelihood that a user would perform a certain action at a given point in time. And we probably don't even need such a LUG, as we could directly use the GNN to produce realistic logs.
